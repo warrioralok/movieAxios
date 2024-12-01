@@ -1,0 +1,18 @@
+body{
+    background-color: #000;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    max-width: 90%;
+    flex-wrap: wrap;
+
+}
+li{
+    display: flex;
+    gap: 20px;
+    color: #fff;
+    min-width: 550px;
+    max-width: 550px;
+}
